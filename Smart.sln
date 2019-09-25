@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Smart", "Smart", "{A931BF7B-A30E-4625-A49E-5A3228019C9D}"
+	ProjectSection(SolutionItems) = preProject
+		config.xml = config.xml
+		connect.html = connect.html
+		Index.html = Index.html
+		CSS\menu.css = CSS\menu.css
+		PlaceHolder.css = PlaceHolder.css
+		timer.html = timer.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{9685F366-8A18-4158-AB3A-3CAC70490FB7}"
+	ProjectSection(SolutionItems) = preProject
+		index.js = index.js
+		test.js = test.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9685F366-8A18-4158-AB3A-3CAC70490FB7} = {A931BF7B-A30E-4625-A49E-5A3228019C9D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16A5014F-D8BA-49AA-B1C7-EB9FAE5B2D6C}
+	EndGlobalSection
+EndGlobal
