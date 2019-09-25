@@ -59,6 +59,18 @@ body {
     width: 40%;
 }
 
+#b_4 {
+    background-color: #D3D3D3;
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: block;
+    text-align: center;
+    padding: 14px 0;
+    margin: auto;
+    width: 50%;
+}
+
 #text {
     font-family: monospace;
     font-size: 20px;
